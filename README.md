@@ -8,7 +8,7 @@
 
 # pip install requests
 
-# pip install ba4
+# pip install bs4
 
 # pip install bash
 
