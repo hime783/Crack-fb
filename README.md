@@ -1,6 +1,9 @@
-# PERINATH TERMUI
+# PERINATH TERMUK
 
-$ git clone https://github.com/Cyber-Ral-05/Crack-fb
-$ ls
-$ cd cd Crack-fb
-$ python python pribadienc.py
+# git clone https://github.com/Cyber-Ral-05/Crack-fb
+
+# ls
+
+# cd cd Crack-fb
+
+# python python pribadienc.py
