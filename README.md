@@ -12,6 +12,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PERINATH TERMUK
 
 # pkg update
