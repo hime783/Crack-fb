@@ -20,6 +20,6 @@
 
 # ls
 
-# cd cd Crack-fb
+# cd Crack-fb
 
 # python python pribadienc.py
