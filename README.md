@@ -28,7 +28,7 @@
 
 # cd Crack-fb
 
-# python python pribadienc.py
+# python pribadienc.py
 
 <h3 align="left">ROBET XD</h3>
 <h3 align="left">LUCIVER EXPLOIT</h3>
